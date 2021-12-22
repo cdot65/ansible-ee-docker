@@ -1,5 +1,5 @@
 # Ansible Execution Environment: Docker
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/512px-Microsoft_logo_%282012%29.svg.png)](https://www.ansible.com/products/execution-environments)
+[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png)](https://www.ansible.com/products/execution-environments)
 
 ## Overview
 
