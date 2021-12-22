@@ -1,12 +1,13 @@
 [tool.poetry]
-name = "ansible-ee-docker"
+name = "ansible-ee-azure"
 version = "0.1.0"
-description = ""
-authors = ["Calvin Remsburg <cremsburg@protonmail.com>"]
+description = "Ansible AWX EE builder for Docker"
+authors = ["Calvin Remsburg <cremsburg.dev@gmail.com>"]
+license = "Apache 2.0"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-ansible-builder = "^0.6.0"
+ansible-builder = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
 
